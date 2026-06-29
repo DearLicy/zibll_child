@@ -15,7 +15,7 @@
 require_once get_theme_file_path('/inc/inc.php');
 
 // 在父主题之后引入子主题核心函数
-require_once get_theme_file_path('/core/core.php');
+require_once get_theme_file_path('/includes/index.php');
 
 /**
  * 如果您需要添加一些自定义的PHP代码
